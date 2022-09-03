@@ -3,6 +3,7 @@
   --light_gray: hsl(212, 45%, 89%);
   --grayish_blue: hsl(220, 15%, 55%);
   --dark_blue: hsl(218, 44%, 22%);
+  --shade: rgba(0, 0, 0, 0.1);
 }
 .attribution {
   font-size: 11px;
@@ -24,7 +25,7 @@ body {
 
 .card {
   background-color: var(--white);
-  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 5px 5px 5px var(--shade);
   border-radius: 0.625rem;
   max-width: 17rem;
   padding: 1rem;
