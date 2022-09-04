@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![Desktop Screenshot](./desktop_scr.png)
-![Mobile Screenshot](./desktop_scr.png)
+![Mobile Screenshot](./mobile_scr.png)
 
 ### Links
 
