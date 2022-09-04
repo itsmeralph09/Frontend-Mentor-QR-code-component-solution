@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/itsmeralph09/Frontend-Mentor-QR-code-component-solution)
-- Live Site URL: [Add live site URL here](https://itsmeralph09.github.io/Frontend-Mentor-QR-code-component-solution/)
+- Solution URL: [Github Repository](https://github.com/itsmeralph09/Frontend-Mentor-QR-code-component-solution)
+- Live Site URL: [Github Page](https://itsmeralph09.github.io/Frontend-Mentor-QR-code-component-solution/)
 
 ## My process
 
@@ -43,7 +43,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
-- [Resource 1](https://css-tricks.com/creating-color-themes-with-custom-properties-hsl-and-a-little-calc/) - This helped me in creating CSS custom properties and how to use it.
+- [Creating Color Themes With Custom Properties, HSL, and a Little calc()](https://css-tricks.com/creating-color-themes-with-custom-properties-hsl-and-a-little-calc/) - This helped me in creating CSS custom properties and how to use it.
 
 ## Author
 
